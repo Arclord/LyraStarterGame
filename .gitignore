@@ -1,0 +1,4 @@
+*.vsconfig
+*.sln
+*.uproject
+Build/
