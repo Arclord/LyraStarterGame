@@ -2,3 +2,8 @@
 *.sln
 *.uproject
 Build/
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
